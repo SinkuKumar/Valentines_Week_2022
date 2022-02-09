@@ -27,25 +27,30 @@ div{
 
 
 #rose{
+    padding-top: 10%;
     background-image: url("rose.jpg");
     color: grey;
 }
 
 #propose{
+    padding-top: 10%;
     background-image: url("propose.jpg");
     color: black;
 }
 
 #chocolate{
+    padding-top: 10%;
     background-image: url("chocolate.jpg");
 }
 
 #teddy{
+    padding-top: 10%;
     background-image: url("teddy.jpg");
     color: rgb(175, 126, 62);
 }
 
 #promise{
+    padding-top: 70%;
     background-image: url("promise.jpg");
     color: black;
 }
